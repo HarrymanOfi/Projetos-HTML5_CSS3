@@ -1,44 +1,9 @@
-# HTML-CSS
-    Curso de HTML5 e CSS3 do CursoemVideo
+# Projetos criados usando HTML5 e CSS3
+<hr><br>
 
-    Desafios e Exercicios do Curso.
-# Desafios #
-
-## Modulo 01 ##
-
+# Projeto Android #
 <div>
-    <details>
-        <summary>Clique Aqui</summary>
-            <ul>
-                <li>
-                    <strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/desafios/modulo-01/d001%20-%20OK/index.html"> Desafio 1</a>
-                </li>
-                <li>
-                    <strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/desafios/modulo-01/d002%20-%20OK/index.html"> Desafio 2</a>
-                </li>
-                <li>
-                    <strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/desafios/modulo-01/d003%20-%20OK/index.html"> Desafio 3</a>
-                </li>
-                <li>
-                    <strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/desafios/modulo-01/d004%20-%20OK/index.html"> Desafio 4</a>
-                </li>
-                <li>
-                    <strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/desafios/modulo-01/d005%20-%20OK/index.html"> Desafio 5</a>
-                </li>
-                <li>
-                    <strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/desafios/modulo-01/d006%20-%20OK/index.html"> Desafio 6</a>
-                </li>
-                <li>
-                    <strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/desafios/modulo-01/d007%20-%20OK/index.html"> Desafio 7</a>
-                </li>
-                <li>
-                    <strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/desafios/modulo-01/d008%20-%20OK/index.html"> Desafio 8</a>
-                </li>
-                <li>
-                    <strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/desafios/modulo-01/d009%20-%20OK/index.html"> Desafio 9</a>
-                </li>
-            </ul>
-    </details>
+    <a href="https://harrymanofi.github.io/Projetos-HTML_CSS3/Projeto-Social/index.html"> Desafio 10</a>
 </div>
 <hr><br>
 
