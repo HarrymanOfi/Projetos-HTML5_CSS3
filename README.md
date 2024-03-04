@@ -1,4 +1,5 @@
 # Projetos criados usando HTML5 e CSS3
+
 <hr><br>
 
 # Projeto Android #
@@ -7,7 +8,7 @@
 </div>
 <hr><br>
 
-## Modulo 02 ##
+# Modulo 02 #
 <div>
     <details>
         <summary>Clique Aqui</summary>
