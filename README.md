@@ -2,7 +2,7 @@
 
 <hr><br>
 
-## Projeto Android ##
+<h2>Projeto Android</h2>
 <div>
     <a href="https://harrymanofi.github.io/Projetos-HTML_CSS3/Projeto-Android/index.html"> Projeto Android</a>
 </div>
