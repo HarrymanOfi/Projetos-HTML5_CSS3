@@ -3,7 +3,7 @@
 
 # Projeto Android #
 <div>
-    <a href="https://harrymanofi.github.io/Projetos-HTML_CSS3/Projeto-Social/index.html"> Projeto Android</a>
+    <a href="https://harrymanofi.github.io/Projetos-HTML_CSS3/Projeto-Android/index.html"> Projeto Android</a>
 </div>
 <hr><br>
 
