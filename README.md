@@ -1,4 +1,4 @@
-# Projetos criados usando HTML5 e CSS3 #
+# Criados usando somente HTML5 e CSS3 #
 
 <hr><br>
 
