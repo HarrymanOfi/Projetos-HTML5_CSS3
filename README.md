@@ -8,7 +8,7 @@
 </div>
 <hr><br>
 
-## Projeto Redes Sociais ##
+<h2>Projeto Redes Sociais</h2>
 <div>
     <a href="https://harrymanofi.github.io/Projetos-HTML_CSS3/Projeto-Social/index.html"> Projeto Redes Sociais</a>
 </div>
